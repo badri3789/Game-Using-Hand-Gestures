@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+venv/
+.env
+.vscode/
+.idea/
+.DS_Store
+
+# macOS screen recording permission helper files
+.TemporaryItems
+
+# Ignore large media files
+*.mp4
+*.avi
